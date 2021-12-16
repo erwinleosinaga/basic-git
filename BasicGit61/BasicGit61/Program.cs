@@ -6,7 +6,8 @@ namespace BasicGit61
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string nama = Console.ReadLine();
+            Console.WriteLine($"Hello World! {nama}");
         }
     }
 }

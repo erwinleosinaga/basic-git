@@ -1,0 +1,14 @@
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.exe
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.deps.json
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.runtimeconfig.json
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.runtimeconfig.dev.json
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.dll
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\bin\Debug\netcoreapp3.1\BasicGit61.pdb
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.csproj.AssemblyReference.cache
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.GeneratedMSBuildEditorConfig.editorconfig
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.AssemblyInfoInputs.cache
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.AssemblyInfo.cs
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.csproj.CoreCompileInputs.cache
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.dll
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.pdb
+X:\belajar\mii\git\basic-git-61\BasicGit61\BasicGit61\obj\Debug\netcoreapp3.1\BasicGit61.genruntimeconfig.cache
